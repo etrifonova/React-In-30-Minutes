@@ -7,6 +7,7 @@ body {
 }
 
 .container {
+    background-color: lightgray;
     min-width: 500px;
     display: grid;
     grid-template-columns: 1fr;
@@ -15,9 +16,11 @@ body {
 }
 
 .input-field {
-    /* width: 50%; */
     font-size: inherit;
     font-family: inherit;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 2px;
 }
 
 .button {
