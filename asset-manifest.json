@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-in-30-minutes/static/css/main.b35f2479.css",
+    "main.js": "/react-in-30-minutes/static/js/main.1c5d060f.js",
+    "index.html": "/react-in-30-minutes/index.html",
+    "main.b35f2479.css.map": "/react-in-30-minutes/static/css/main.b35f2479.css.map",
+    "main.1c5d060f.js.map": "/react-in-30-minutes/static/js/main.1c5d060f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b35f2479.css",
+    "static/js/main.1c5d060f.js"
+  ]
+}
